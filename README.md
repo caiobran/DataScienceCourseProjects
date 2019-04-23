@@ -3,8 +3,8 @@ Set of Jupyter notebooks created to showcase skills learned from courses on Data
 
 - [Plot of Houston Record Day Temperatures for period of 2005-2015](https://github.com/caiobran/DataScienceCourseProjects/blob/master/Houston_Record_Temperatures.ipynb)
 
-<img src="https://i.imgur.com/jLmc556.png" alt="Figure 1" style="width: 200px;"/>
+<img src="https://i.imgur.com/jLmc556.png" alt="Figure 1" height="60" width="100"/>
 
 - [Interactive Bar Chart of Mean ](https://github.com/caiobran/DataScienceSampleCode/blob/master/BarChartsWithInteractiveGradientScale.ipynb)
 
-<img src="https://i.imgur.com/2c2DCTg.png" alt="Figure 2" style="width: 200px;"/>
+<img src="https://i.imgur.com/2c2DCTg.png" alt="Figure 2" height="60" width="100"/>
