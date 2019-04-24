@@ -5,6 +5,6 @@ Set of Jupyter notebooks created to showcase skills learned from courses on Data
 
 <img src="https://i.imgur.com/jLmc556.png" alt="Figure 1" style="horizontal-align:middle" width="600"/>
 
-- [Interactive Bar Chart of Mean ](https://github.com/caiobran/DataScienceSampleCode/blob/master/BarChartsWithInteractiveGradientScale.ipynb)
+- [Interactive Bar Chart](https://github.com/caiobran/DataScienceSampleCode/blob/master/BarChartsWithInteractiveGradientScale.ipynb) - an interactive bar chart with a gradient color coding scheme representing the probability that the mean value of the normal distribution falls below the user adjusted horizontal line.
 
 <img src="https://i.imgur.com/2c2DCTg.png" alt="Figure 2" style="horizontal-align:middle" width="600"/>
