@@ -1,15 +1,8 @@
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-</style>
-</head>
-<body>
 
 # DataScienceCourseProjects
 Set of Jupyter notebooks created to showcase skills learned from courses on Data Science and Python. Below is a list with their short description and link:
@@ -21,6 +14,3 @@ Set of Jupyter notebooks created to showcase skills learned from courses on Data
 - [Interactive Bar Chart](https://github.com/caiobran/DataScienceSampleCode/blob/master/BarChartsWithInteractiveGradientScale.ipynb) - an interactive bar chart with a gradient coding scheme that represents the probability that the mean value of the normal distribution will fall below the user adjusted horizontal line.
 
 <img src="https://i.imgur.com/Eq2zOE2.png" alt="Figure 2" height="300"/>
-
-</body>
-</html>
