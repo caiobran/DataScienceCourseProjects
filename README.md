@@ -9,6 +9,6 @@ Set of Jupyter notebooks created to showcase skills learned from courses on Data
 
 <img src="https://i.imgur.com/Eq2zOE2.png" alt="Figure 2" height="350"/>
 
-- [Secondary Y-Axis Chart with HTML based data](https://github.com/caiobran/DataScienceSampleCode/blob/master/WolverinesGameAttendanceVsSeasonWins.ipynb) - chart with that plots two data sets scraped from web site html code using pandas
+- [Plotting with web based data](https://github.com/caiobran/DataScienceSampleCode/blob/master/WolverinesGameAttendanceVsSeasonWins.ipynb) - a chart of two data sets scraped from web site html code using pandas
 
 <img src="https://i.imgur.com/mD65eHs.png" alt="Figure 2" height="350"/>
