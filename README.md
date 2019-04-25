@@ -7,6 +7,8 @@ Set of Jupyter notebooks created to showcase skills learned from courses on Data
 
 - [Interactive Bar Chart](https://github.com/caiobran/DataScienceSampleCode/blob/master/BarChartsWithInteractiveGradientScale.ipynb) - an interactive bar chart with a gradient coding scheme that represents the probability that the mean value of the normal distribution will fall below the user adjusted horizontal line.
 
-<p style="padding-right: 5px;">
-  <img src="https://i.imgur.com/Eq2zOE2.png" alt="Figure 2" height="350"/>
-</p>
+<img src="https://i.imgur.com/Eq2zOE2.png" alt="Figure 2" height="350"/>
+
+- [Secondary Y-Axis Chart with HTML based data](https://github.com/caiobran/DataScienceSampleCode/blob/master/WolverinesGameAttendanceVsSeasonWins.ipynb) - chart with that plots two data sets scraped from web site html code using pandas
+
+<img src="https://i.imgur.com/mD65eHs.png" alt="Figure 2" height="350"/>
