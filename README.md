@@ -15,6 +15,6 @@ Set of Jupyter notebooks created to showcase skills learned from courses on Data
 <img src="https://i.imgur.com/mD65eHs.png" alt="" height="350"/>
 
 ## Machine Learning with scikit-learn
-- [Linear regression with polynomial features]()
+- [Linear regression with polynomial features](https://github.com/caiobran/DataScienceSampleCode/blob/master/PolynomialRegressions.ipynb)
 <img src="https://i.imgur.com/PYcL5Qe.png" alt="" height="350"/>
 <img src="https://i.imgur.com/501xN4Y.png" alt="" height="350"/>
